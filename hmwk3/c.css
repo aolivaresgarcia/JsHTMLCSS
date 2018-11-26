@@ -1,0 +1,23 @@
+.ha:hover{
+    text-align: center;
+    background-color: aqua;
+    color: cadetblue;
+    transition: ease-in-out;
+
+}
+
+.pa{
+    text-align: center;
+    color: cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+.divs{
+    background-color: cadetblue;
+}
+
+.aClass{
+    background-color: cornflowerblue;
+    text-align: right;
+    text-decoration: darkgray;
+}
